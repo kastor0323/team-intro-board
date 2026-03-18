@@ -1,4 +1,4 @@
-# 팀 규칙
+# 22팀 규칙
 
 ## Commit Message 규칙
 ```bash
